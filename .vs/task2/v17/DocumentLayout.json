@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FBD964FB-13C8-4382-8082-79369675B1B0}|task2\\task2.pyproj|E:\\\u0423\u043D\u0438\u043A\\8 \u0441\u0435\u043C\\\u0410\u041C\u0418\u041C\u0421\u0423\\task 2\\task2\\task2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{FBD964FB-13C8-4382-8082-79369675B1B0}|task2\\task2.pyproj|solutionrelative:task2\\task2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD964FB-13C8-4382-8082-79369675B1B0}|task2\\task2.pyproj|E:\\\u0423\u043D\u0438\u043A\\8 \u0441\u0435\u043C\\\u0410\u041C\u0418\u041C\u0421\u0423\\task 2\\task2\\task_model.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FBD964FB-13C8-4382-8082-79369675B1B0}|task2\\task2.pyproj|solutionrelative:task2\\task_model.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task_model.py",
+              "DocumentMoniker": "E:\\\u0423\u043D\u0438\u043A\\8 \u0441\u0435\u043C\\\u0410\u041C\u0418\u041C\u0421\u0423\\task 2\\task2\\task_model.py",
+              "RelativeDocumentMoniker": "task2\\task_model.py",
+              "ToolTip": "E:\\\u0423\u043D\u0438\u043A\\8 \u0441\u0435\u043C\\\u0410\u041C\u0418\u041C\u0421\u0423\\task 2\\task2\\task_model.py",
+              "RelativeToolTip": "task2\\task_model.py",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-05T15:11:56.07Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "task2\\task2.py",
               "ToolTip": "E:\\\u0423\u043D\u0438\u043A\\8 \u0441\u0435\u043C\\\u0410\u041C\u0418\u041C\u0421\u0423\\task 2\\task2\\task2.py",
               "RelativeToolTip": "task2\\task2.py",
-              "ViewState": "AgIAADgAAAAAAAAAAADwv00AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAArwMcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-02-28T10:47:39.839Z",
               "EditorCaption": ""
